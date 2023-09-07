@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+                "file": "The Host Has Changed/Story/First Rough Draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+                "file": "The Host Has Changed/Story/First Rough Draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -74,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+                "file": "The Host Has Changed/Story/First Rough Draft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+            "file": "The Host Has Changed/Story/First Rough Draft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+            "file": "The Host Has Changed/Story/First Rough Draft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Host Has Changed/Campaign/How the campaign goes.md"
+            "file": "The Host Has Changed/Story/First Rough Draft.md"
           }
         }
       }
@@ -216,11 +216,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f7ef9860f39da20",
+  "active": "97115aa420b9d5cb",
   "lastOpenFiles": [
+    "The Host Has Changed/Campaign/How the campaign goes.md",
     "The Host Has Changed/The plan.md",
     "The Host Has Changed (current state).md",
-    "The Host Has Changed/Campaign/How the campaign goes.md",
     "The Host Has Changed/Story/Random Lore Dump.md",
     "The Host Has Changed/Story/First Rough Draft.md",
     "Tools/RPG Systems.md",
