@@ -9,7 +9,7 @@ The center of the building is a giant octagon platform, which has been covered w
 
 The altars at each corner of the building has a sink that flows into a thin straight canal, pointing directly into the middle platform. When the canal reaches the main hall, it splits and branches multiple times into a sort of tree. These branches are also etched into the platform walls, and when the blood reaches them it will climb and start to drip and flow towards the middle.
 
-Each time a gift (blood sacrifice) is made, there's a burst of air though the whole temple, signifying the embiggening of the whole the god is creating to acquire the matter from this universe.
+Each time a gift (blood sacrifice) is made, there's a burst of air though the whole temple, signifying the embiggening of the hole the god is creating to acquire the matter from this universe.
 
 ## The Betrayer
 
