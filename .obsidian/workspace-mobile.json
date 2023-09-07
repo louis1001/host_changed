@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "b596060a277456de",
+    "type": "split",
+    "children": [
+      {
+        "id": "0804f9317aacc893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97115aa420b9d5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "53dc3a68eec4c86c"
+          }
+        ]
+      },
+      {
+        "id": "1fa5c9727c352311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd93cfb10660492",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.6587169113604565,
+                  "close": false
+                }
+              }
+            },
+            "group": "53dc3a68eec4c86c"
+          }
+        ]
+      },
+      {
+        "id": "40b75292cd925f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438c932dad39e924",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "53dc3a68eec4c86c"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "839b4c9dc286b94c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f7ef9860f39da20",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4bef0c14db84e309",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e336986524ae6cd0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "259b28c538958134",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2329eb3eaa749eeb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "50f68d6a8b974a6e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "230919cc34abff73",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The Host Has Changed/Campaign/How the campaign goes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ee32e83e097e91bb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "The Host Has Changed/Campaign/How the campaign goes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f7ef9860f39da20",
+  "lastOpenFiles": [
+    "The Host Has Changed/The plan.md",
+    "The Host Has Changed (current state).md",
+    "The Host Has Changed/Campaign/How the campaign goes.md",
+    "The Host Has Changed/Story/Random Lore Dump.md",
+    "The Host Has Changed/Story/First Rough Draft.md",
+    "Tools/RPG Systems.md",
+    "The Host Has Changed",
+    "The Host Has Changed/Campaign",
+    "Tools/Roll For Shoes.md",
+    "Tools/kids_on_bikes.pdf"
+  ]
+}
